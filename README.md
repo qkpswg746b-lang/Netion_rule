@@ -1,2 +1,2 @@
-# Netion_rule
-Some commonly used rules
+# Netion_rules
+Global internet access accelerates, As a supplement to gfwlist.
