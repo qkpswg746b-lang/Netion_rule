@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,intercomcdn2.com
