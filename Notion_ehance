@@ -9,3 +9,5 @@ payload:
   - DOMAIN-SUFFIX,unsplash.com
   - DOMAIN-SUFFIX,notion.com
   - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,notionusercontent.com
+  - DOMAIN-SUFFIX,sentry.io
