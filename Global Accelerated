@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,microsofttranslator.com
   - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,slack.com
+  - DOMAIN-SUFFIX,intercomcdn.com
