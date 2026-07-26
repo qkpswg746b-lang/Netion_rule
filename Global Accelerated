@@ -1,3 +1,11 @@
 payload:
   - DOMAIN-SUFFIX,zerotier.com
   - DOMAIN-SUFFIX,github.dev
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,securityweek.com
+  - DOMAIN-SUFFIX,zoom.us
+  - DOMAIN-SUFFIX,integodownload.com
+  - DOMAIN-SUFFIX,emacle.cf
+  - DOMAIN-SUFFIX,microsofttranslator.com
+  - DOMAIN-SUFFIX,live.net
+  - DOMAIN-SUFFIX,slack.com
