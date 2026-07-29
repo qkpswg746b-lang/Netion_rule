@@ -14,3 +14,7 @@ payload:
   - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,storage.live.com
   - DOMAIN-SUFFIX,sharepointonline.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,oneclient.sfx.ms
+  - DOMAIN-SUFFIX,svc.ms
+  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
