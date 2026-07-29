@@ -6,12 +6,13 @@ payload:
   - DOMAIN-SUFFIX,zoom.us
   - DOMAIN-SUFFIX,integodownload.com
   - DOMAIN-SUFFIX,emacle.cf
-  - DOMAIN-SUFFIX,microsofttranslator.com
-  - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,slack.com
   - DOMAIN-SUFFIX,intercomcdn.com
-# Temas File
-#  - DOMAIN-SUFFIX,storage.live.com
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,sharepointonline.com
+  - DOMAIN-SUFFIX,microsofttranslator.com
+# Microsoft & Temas File(No need if you are using Current DNS in local)
+# - DOMAIN-SUFFIX,live.net
+# - DOMAIN-SUFFIX,storage.live.com
+# - DOMAIN-SUFFIX,sharepointonline.com
+# - DOMAIN-SUFFIX,onedrive.com
+
 
