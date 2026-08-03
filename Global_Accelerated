@@ -20,3 +20,8 @@ payload:
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,sharepoint-df.com
   - DOMAIN-SUFFIX,onedrive.live.com
+# oyunfor
+   - DOMAIN-SUFFIX,oyunfor.com
+   - DOMAIN-SUFFIX,iyzico.com
+   - DOMAIN-SUFFIX,paytr.com
+
