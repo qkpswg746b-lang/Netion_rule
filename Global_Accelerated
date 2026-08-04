@@ -24,4 +24,7 @@ payload:
    - DOMAIN-SUFFIX,oyunfor.com
    - DOMAIN-SUFFIX,iyzico.com
    - DOMAIN-SUFFIX,paytr.com
+# Others
+   - DOMAIN-SUFFIX,bajie.pw
+
 
