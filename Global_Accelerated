@@ -17,9 +17,14 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,oneclient.sfx.ms
   - DOMAIN-SUFFIX,svc.ms
-  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
   - DOMAIN-SUFFIX,sharepoint-df.com
   - DOMAIN-SUFFIX,onedrive.live.com
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,officeclient.microsoft.com
+  - DOMAIN-SUFFIX,public.onecdn.static.microsoft
+  - DOMAIN-SUFFIX,graph.microsoft.com
+
 # oyunfor
    - DOMAIN-SUFFIX,oyunfor.com
    - DOMAIN-SUFFIX,iyzico.com
