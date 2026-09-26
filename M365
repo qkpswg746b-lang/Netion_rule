@@ -1,17 +1,21 @@
 payload:
-# Microsoft & Temas File
-  - DOMAIN-SUFFIX,microsofttranslator.com
-  - DOMAIN-SUFFIX,onedrive.com
-  - DOMAIN-SUFFIX,live.net
-  - DOMAIN-SUFFIX,storage.live.com
-  - DOMAIN-SUFFIX,sharepointonline.com
+# Microsoft 365 Login
+  - DOMAIN-SUFFIX,microsoftonline.com
+
+# OneDrive / SharePoint Core
   - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,sharepointonline.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,storage.live.com
+  - DOMAIN,g.live.com
   - DOMAIN-SUFFIX,oneclient.sfx.ms
   - DOMAIN-SUFFIX,svc.ms
-  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net
-  - DOMAIN-SUFFIX,sharepoint-df.com
+  - DOMAIN,spoprod-a.akamaihd.net
+  - DOMAIN,officeclient.microsoft.com
   - DOMAIN-SUFFIX,onedrive.live.com
-  - DOMAIN-SUFFIX,microsoftonline.com
-  - DOMAIN-SUFFIX,officeclient.microsoft.com
-  - DOMAIN-SUFFIX,public.onecdn.static.microsoft
-  - DOMAIN-SUFFIX,graph.microsoft.com
+  
+# APIs / Static Resources
+ - DOMAIN,graph.microsoft.com
+ - DOMAIN-SUFFIX,public.onecdn.static.microsoft
+ 
+
